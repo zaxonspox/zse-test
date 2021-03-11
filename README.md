@@ -1,3 +1,4 @@
+Zamiast tworzyć pliki dla REPO na GitHub można stworzyć je lokalnie i wysłać do REPO
 git init
 git add README.md
 git commit -m "first commit"
